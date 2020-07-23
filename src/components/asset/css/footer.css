@@ -1,0 +1,115 @@
+.footer img {
+    height: 100px;
+    width: auto;
+    margin-bottom: 5px;
+}
+
+.footer {
+    /* background: #262626; */
+    font-size: 14px;
+}
+
+.htactive {
+    height: 213px;
+}
+
+.footer .list-icons {
+    padding: 5px 0;
+}
+
+.list-icons .ant-col {
+    padding: 5px 0;
+}
+
+.ant-menu-vertical .ant-menu-submenu,
+.ant-menu-vertical-left .ant-menu-submenu,
+.ant-menu-vertical-right .ant-menu-submenu,
+.ant-menu-inline .ant-menu-submenu {
+    margin-top: -16px;
+    font-size: 13px;
+}
+
+.ant-col-3 {
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.htactive {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.htactive iframe {
+    height: 14vw;
+    width: 24vw;
+}
+
+.FTicons {
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    display: block;
+    text-align: center;
+    padding: 2px;
+    display: block;
+    font-size: 20px;
+    border: 1px solid #a6a6a6;
+    margin: 0 5px 5px 0;
+    border-radius: 100%;
+}
+
+.FTicons:hover {
+    background-color: #3385ff;
+}
+
+.anticon svg:hover {
+    color: white;
+}
+
+.anticon svg {
+    margin-top: 10px
+}
+
+.subfooter {
+    background: black;
+    height: 11vh;
+    text-align: center;
+}
+
+.textFT {
+    color: #a6a6a6;
+    padding: 25px 0;
+    font-size: 14px;
+}
+
+.textFT a {
+    color: #a6a6a6;
+    border-right: 1px solid #333;
+    text-align: center;
+}
+
+.footer {
+    color: #999;
+    padding: 30px 0;
+    background-color: #262626;
+    border-top: 1px solid #3a3a3a;
+}
+
+.footer1 {
+    background-color: #262626;
+    border-bottom: 1px solid #333;
+}
+
+.footer h2 {
+    color: #999;
+}
+
+.menufooter .submenu {
+    background-color: #262626;
+    color: #999;
+}
+
+.menufooter .submenu:hover {
+    background-color: #f2f2f2;
+}

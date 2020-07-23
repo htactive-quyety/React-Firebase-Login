@@ -1,0 +1,25 @@
+.header {
+    padding-top: 10px;
+}
+
+#logoheader {
+    width: 100px;
+    height: 78px;
+    background-size: 200px 78px;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
+.menuHeader {
+    padding-top: 10px;
+    border-bottom: 1px solid #eaeaea;
+    background-color: #fff;
+}
+
+.menuHeader .ant-menu-horizontal {
+    white-space: nowrap;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding-top: 45px;
+}
